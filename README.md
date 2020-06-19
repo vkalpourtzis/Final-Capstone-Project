@@ -6,5 +6,5 @@ Let's assume that a new entrepreneur decides to open a venue at the heart of Ath
 
 ## Data
 In this project will be collected and analyzed data, via foursquare API, from 5 big cities to suggest a type venue to open at the downtown of Athens.
-More specifically, data such as venue category will be analyzed for each downtown of 5 big cities. To increase models odds for a satisfying result will be checked the trending venues of each city's center.
+More specifically, data such as venue category will be analyzed for each downtown of 5 big cities. To increase models odds for a satisfying result will be checked the venues of each city's center.
 Cities that will be explored are: San Francisco, Sydney, Moscow, Cape Town, Seoul.
