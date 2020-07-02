@@ -5,6 +5,6 @@ Clearly define a problem or an idea of your choice, where you would need to leve
 Let's assume that a new entrepreneur decides to open a venue at the heart of Athens, to maximize his chances of success data of five big cities will be compared to conclude, according to Athens' downtown data, what is the recommended type of venue to open. Instead of huge globalization, there is a prospect that the downtown of Athens may miss something.
 
 ## Data
-In this project will be collected and analyzed data, via foursquare API, from 5 big cities to suggest a type venue to open at the downtown of Athens.
-More specifically, data such as venue category will be analyzed for each downtown of 5 big cities. To increase models odds for a satisfying result will be checked the venues of each city's center.
+In this project will be collected and analyzed data, via foursquare API, from 7 big cities to suggest a type venue to open at the downtown of Athens.
+More specifically, data such as venue category will be analyzed for each downtown of 7 big cities. To increase models odds for a satisfying result will be checked the venues of each city's center.
 Cities that will be explored are: San Francisco, Sydney, Moscow, Cape Town, Seoul.
